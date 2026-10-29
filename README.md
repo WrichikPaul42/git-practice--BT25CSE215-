@@ -2,7 +2,7 @@
 
 **Name:** Wrichik Paul  
 **Roll Number:** BT25CSE215  
-**Section:** [Enter your Section here]
+**Section:** C2
 
 ## Description
 

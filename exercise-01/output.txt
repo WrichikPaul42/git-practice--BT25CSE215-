@@ -1,0 +1,4 @@
+Enter your name: Wrichik
+Hello, Wrichik! Welcome to Exercise 1.
+Enter two numbers to add: 15 27
+The sum of 15 and 27 is 42.

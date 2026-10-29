@@ -2,28 +2,32 @@
 
 **Name:** Wrichik Paul  
 **Roll Number:** BT25CSE215  
-**Section:** C2 
+**Section:** C2
 
 ## Description
 
-This repository contains the completed Git practice assignment. It demonstrates version control fundamentals, including branching, simulating and resolving merge conflicts, and utilizing GitHub collaboration features like Issues and Pull Requests.
+This repository contains two C++ exercises and supporting materials for a Git practice assignment. It is intended to document version control fundamentals, including branching, merge-conflict resolution, and GitHub collaboration activities.
 
 ## Completed Exercises
 
-- [x] **Exercise 01:** [Briefly describe what exercise 1 does, e.g., Program to calculate factorial]
-- [x] **Exercise 02:** [Briefly describe what exercise 2 does, e.g., Program to sort an array]
+- [x] **Exercise 01:** A basic interactive C++ program that takes user input to print a personalized greeting and calculates the sum of two numbers.
+- [x] **Exercise 02:** A menu-driven C++ program using a `while` loop and `switch` statement to offer Greet, Add, Check Even/Odd, and Exit options.
 
 ## Instructions to Compile and Run
 
-Navigate to the specific exercise directory in your terminal and compile the C++ source code using `g++`. For example:
+Compile each exercise from its directory with `g++`:
 
-\`\`\`bash
+```powershell
 cd exercise-01
-g++ main.cpp -o program
-./program
-\`\`\`
+g++ main.cpp -o program.exe
+.\program.exe
+
+cd ../exercise-02
+g++ main.cpp -o program.exe
+.\program.exe
+```
 
 ## Evidence of GitHub Activities
 
-- **Issue #1:** [Paste the URL to your GitHub Issue here]
-- **Pull Request #1:** [Paste the URL to your merged Pull Request here]
+- **Issue:** [Issue #1](https://github.com/WrichikPaul42/git-practice--BT25CSE215-/issues/1)
+- **Merged Pull Request:** [Pull Request #1](https://github.com/WrichikPaul42/git-practice--BT25CSE215-/pull/1)

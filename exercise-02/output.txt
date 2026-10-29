@@ -1,0 +1,16 @@
+--- Main Menu ---
+1. Greet
+2. Add two numbers
+3. Check Even/Odd
+4. Exit
+Enter your choice: 3
+Enter a number: 42
+42 is Even.
+
+--- Main Menu ---
+1. Greet
+2. Add two numbers
+3. Check Even/Odd
+4. Exit
+Enter your choice: 4
+Exiting program. Goodbye!

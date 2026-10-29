@@ -4,6 +4,8 @@
 **Roll Number:** BT25CSE215  
 **Section:** C2
 
+**GitHub Repository:** [WrichikPaul42/GIT](https://github.com/WrichikPaul42/GIT)
+
 ## Description
 
 This repository contains two C++ exercises and supporting materials for a Git practice assignment. It is intended to document version control fundamentals, including branching, merge-conflict resolution, and GitHub collaboration activities.
